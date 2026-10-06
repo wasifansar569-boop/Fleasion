@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        12307734932,
+        12307583853
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
